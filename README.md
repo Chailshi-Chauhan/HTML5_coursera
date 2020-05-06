@@ -1,2 +1,2 @@
 # HTML5_coursera
-HTML5 Coursera Project.
+Introduction to HTML5 Coursera Project.
